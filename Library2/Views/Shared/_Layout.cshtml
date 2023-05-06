@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Library2</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Library2.styles.css" asp-append-version="true" />
+    <!-- thems-->
+    <link href="~/css/img/favicon.png" rel="icon">
+    <link href="~/css/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    F:\Repositores\.Net\Library2\Library2\wwwroot\css\assets\css\style.css
+    <link href="~/css/vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="~/css/vendor/aos/aos.css" rel="stylesheet">
+    <link href="~/css/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/css/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="~/css/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="~/css/vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="~/css/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="~/css/style.css" rel="stylesheet">
+    <!-- thems-->
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" asp-append-version="true" />
+</head>
+<body>
+
+    <header id="header" class="fixed-top">
+        <div class="container d-flex align-items-center">
+
+            <h1 class="logo me-auto"><a href="index.html">Library</a></h1>
+            <!-- Uncomment below if you prefer to use an image logo -->
+            <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+            <nav id="navbar" class="navbar order-last order-lg-0">
+                <ul>
+                    
+                    <li >
+                        <a class=" active  " asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li >
+                        <a  asp-area="" asp-controller="Books" asp-action="Index">Books</a>
+                    </li>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li >
+                            <a class=" " asp-area="" asp-controller="Borrowed_Book" asp-action="Index">MyBooks</a>
+                        </li>
+                    }
+                    <li >
+                        <a  asp-area="" asp-controller="Books" asp-action="Add">Donate</a>
+                    </li>
+                   
+                    
+
+                    <partial name="_LoginPartial" />
+
+                </ul>
+               
+                
+            </nav><!-- .navbar -->
+
+            
+
+        </div>
+    </header><!-- End Header -->
+
+
+  
+    <div class="">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - Library2 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <!-- Vendor JS Files -->
+    <script src="~/css/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="~/css/vendor/aos/aos.js"></script>
+    <script src="~/css/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/css/vendor/swiper/swiper-bundle.min.js"></script>
+
+
+    <!-- Template Main JS File -->
+    <script src="~/js/main.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

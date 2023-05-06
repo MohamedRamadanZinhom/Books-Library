@@ -1,0 +1,681 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Library2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Library2.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\background.jpg",
+      "PackagePath": "staticwebassets\\css\\background.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\course-details.jpg",
+      "PackagePath": "staticwebassets\\css\\course-details.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\hero-bg.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\css\\img\\about.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\css\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\course-1.jpg",
+      "PackagePath": "staticwebassets\\css\\img\\course-1.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\course-2.jpg",
+      "PackagePath": "staticwebassets\\css\\img\\course-2.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\course-3.jpg",
+      "PackagePath": "staticwebassets\\css\\img\\course-3.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\course-details-tab-1.png",
+      "PackagePath": "staticwebassets\\css\\img\\course-details-tab-1.png"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\course-details-tab-2.png",
+      "PackagePath": "staticwebassets\\css\\img\\course-details-tab-2.png"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\course-details-tab-3.png",
+      "PackagePath": "staticwebassets\\css\\img\\course-details-tab-3.png"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\course-details-tab-4.png",
+      "PackagePath": "staticwebassets\\css\\img\\course-details-tab-4.png"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\course-details-tab-5.png",
+      "PackagePath": "staticwebassets\\css\\img\\course-details-tab-5.png"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\events-1.jpg",
+      "PackagePath": "staticwebassets\\css\\img\\events-1.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\events-2.jpg",
+      "PackagePath": "staticwebassets\\css\\img\\events-2.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\css\\img\\favicon.png"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\css\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\css\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\css\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\css\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\css\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\trainers\\trainer-1.jpg",
+      "PackagePath": "staticwebassets\\css\\img\\trainers\\trainer-1.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\trainers\\trainer-2.jpg",
+      "PackagePath": "staticwebassets\\css\\img\\trainers\\trainer-2.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\img\\trainers\\trainer-3.jpg",
+      "PackagePath": "staticwebassets\\css\\img\\trainers\\trainer-3.jpg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\animate.css\\animate.compat.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\animate.css\\animate.compat.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\animate.css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\animate.css\\animate.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\animate.css\\animate.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\css\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\css\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\css\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\css\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\css\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\css\\vendor\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\remixicon\\remixicon.less",
+      "PackagePath": "staticwebassets\\css\\vendor\\remixicon\\remixicon.less"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\css\\vendor\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\remixicon\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\css\\vendor\\remixicon\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\css\\vendor\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\css\\vendor\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\css\\vendor\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\css\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\css\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\css\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\css\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Library2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Library2.props",
+      "PackagePath": "build\\Library2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Library2.props",
+      "PackagePath": "buildMultiTargeting\\Library2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Library2.props",
+      "PackagePath": "buildTransitive\\Library2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

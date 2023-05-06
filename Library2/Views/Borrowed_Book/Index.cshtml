@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Library2.Models.Borrowed_Book>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<partial name="_Notifcation" />
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.User_id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Book_id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Book_Title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Start_Date)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.End_Date)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.User_id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Book_id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Book_Title)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Start_Date)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.End_Date)
+                    </td>
+                    <td>
+
+                        <a asp-action="Delete" asp-route-id="@item.Id">Return Back</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

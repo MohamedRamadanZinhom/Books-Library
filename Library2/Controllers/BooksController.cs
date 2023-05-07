@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Library2.Models;
 using Microsoft.AspNetCore.Identity;
+using Newtonsoft.Json;
 
 namespace Library2.Controllers
 {
@@ -27,7 +28,6 @@ namespace Library2.Controllers
         {
             return View();
         }
-
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Add(Book b)
@@ -42,6 +42,22 @@ namespace Library2.Controllers
 
             return View(b);
         }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public Book InsertBook(Book book)
+        {
+            if (ModelState.IsValid)
+            {
+
+                _db.books.Add(book);
+                _db.SaveChanges();
+                TempData["Success"] = "Data Updated Successfully";
+            }
+            return book;
+        }
+
+
         [Route("book/edit/{id}")]
         public IActionResult Edit(int? id)
         {
@@ -80,6 +96,10 @@ namespace Library2.Controllers
 
 
 
-     
+   
+
+
+
+
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dzrejoRvbczH3Ivm0PhYqDs7a3DjevSl7aINPTN2D78=",
+  "Hash": "kluY7cHy5Dt5Y7NPZx49nW8FjV7GZTYmZxfxrTHrxtY=",
   "Source": "Library2",
   "BasePath": "_content/Library2",
   "Mode": "Default",
@@ -2854,6 +2854,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\js\\Borrowed_Book.js",
+      "SourceId": "Library2",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\",
+      "BasePath": "_content/Library2",
+      "RelativePath": "js/Borrowed_Book.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Borrowed_Book.js"
     },
     {
       "Identity": "F:\\Repositores\\.Net\\Library2\\Library2\\wwwroot\\js\\main.js",

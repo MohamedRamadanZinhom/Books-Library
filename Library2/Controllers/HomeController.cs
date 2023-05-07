@@ -7,10 +7,13 @@ namespace Library2.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        
+        
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger )
         {
             _logger = logger;
+           // _configuration =new ConfigurationBuilder().SetBasePath(env.ContentRootPath).AddJsonFile("appsettings.json").Build();
         }
 
         public IActionResult Index()

@@ -4,6 +4,32 @@
     ViewData["Title"] = "Add";
 }
 
+
+    <script>
+
+        $(document).ready(function () {
+
+            $("#btn-get-student").on("click", function () {
+                $.ajax({
+
+
+                    url: "/Books/Add",
+                    success: function (response) {
+                        console.log(response)
+                    },
+                    error: function (err) {
+                        console.log(err)
+                    }
+                
+                });
+               
+            })
+        
+        });
+
+    </script>
+
+
 <partial name="_Notifcation" />
 <br />
 <br />
@@ -18,33 +44,33 @@
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 <div class="form-group">
                     <label asp-for="Title" class="control-label"></label>
-                    <input asp-for="Title" class="form-control" />
+                    <input asp-for="Title" id="title" class="form-control" />
                     <span asp-validation-for="Title" class="text-danger"></span>
                 </div>
                 <div class="form-group">
                     <label asp-for="Description" class="control-label"></label>
-                    <input asp-for="Description" class="form-control" />
+                    <input asp-for="Description" id="desc" class="form-control" />
                     <span asp-validation-for="Description" class="text-danger"></span>
                 </div>
                 <div class="form-group">
                     <label asp-for="Author" class="control-label"></label>
-                    <input asp-for="Author" class="form-control" />
+                    <input asp-for="Author" id="author" class="form-control" />
                     <span asp-validation-for="Author" class="text-danger"></span>
                 </div>
                 <div class="form-group">
                     <label asp-for="Currentcount" class="control-label"></label>
-                    <input asp-for="Currentcount" class="form-control" />
+                    <input asp-for="Currentcount" id="ccount" class="form-control" />
                     <span asp-validation-for="Currentcount" class="text-danger"></span>
                 </div>
                 <div class="form-group">
                     <label asp-for="Maxcount" class="control-label"></label>
-                    <input asp-for="Maxcount" class="form-control" />
+                    <input asp-for="Maxcount" id="mcount" class="form-control" />
                     <span asp-validation-for="Maxcount" class="text-danger"></span>
                 </div>
                 <div class="form-group">
                     <br />
                     <br />
-                    <input type="submit" value="Donate" class="btn btn-success" />
+                    <input type="submit" id="btn-get-student" value="Donate" class="btn btn-success" />
                 </div>
             </form>
             

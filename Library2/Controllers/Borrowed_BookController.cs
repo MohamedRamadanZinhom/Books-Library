@@ -23,6 +23,13 @@ namespace Library2.Controllers
             UserManager = user;
         }
 
+        public  List<Borrowed_Book> fetchData()
+        {
+            var x = UserManager.GetUserId(HttpContext.User);
+            var data = _context.borrowed_books.Where(b => b.User_id == x);
+            return  data.ToList();
+        }
+
         // GET: Borrowed_Book
         public async Task<IActionResult> Index()
         {
